@@ -1,0 +1,2 @@
+add_executable(devastator_app devastator_app.cpp)
+target_link_libraries(devastator_app PRIVATE devastator)
